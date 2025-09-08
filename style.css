@@ -49,18 +49,20 @@ body{
 }
 
 .presentacion__contenido__enlaces__link{
-    width: 280px;
-    background-color: #22D4FD;
+    width: 378px;
+    border: 2px solid #22D4FD;
     text-align: center;
     padding: 21.5px 0;
-    border-radius: 16px;
+    border-radius: 8px;
     font-family: "Montserrat", sans-serif;
     font-size: 24px;
     font-weight: 600;
     text-decoration: none;
-    color: #000;
+    color: #f6f6f6;
 }
 
-/* .presentacion__contenido__enlaces__subtituloñ{
-
-} */
+.presentacion__contenido__enlaces__subtitulo{
+    font-size: 24px;
+    font-family: "Krona One", sans-serif;
+    font-weight: 400;
+}
