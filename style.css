@@ -9,7 +9,6 @@
 body{
     background-color: #000;
     color: #f6f6f6;
-    height: 100vh;
     box-sizing: border-box;
 }
 
@@ -74,4 +73,14 @@ body{
     background-color: #2f2f2f;
     border: 2px solid #0000FF;
     cursor: pointer;
+}
+
+.footer{
+    background-color: #22D4FD;
+    padding: 24px;
+    color: black;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
 }
