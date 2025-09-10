@@ -1,6 +1,17 @@
 /* FUENTES */
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
+/* VARIABLES */
+:root{
+    --color-primario: #000;
+    --color-secundario: #f6f6f6;
+    --color-terciario: #22D4FD;
+
+    --fuente-montserrat: "Montserrat", sans-serif;
+    --fuente-krola-one: "Krona One", sans-serif;
+}
+
+
 *{
     margin: 0px;
     padding: 0px;
